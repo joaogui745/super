@@ -1,6 +1,13 @@
-# Super
+### Super
+This Java-based application serves as a prototype for an urban transportation system. Designed primarily for training purposes with the Ant build tool. It uses the Swing GUI library to provide a user-friendly interface for:
+ - Client registration
+ - Client search, edit, and deletion
+ - Ride management (creation, modification, deletion)
 
-Protótipo de aplicativo de transporte urbano desenvolvido em Java para treinamento com a biblioteca de interface gráfica Swing. Implementação do cadastro, pesquisa, edição e exclusão de clientes e corridas.
-Treinamento em hierarquia e relacionamento entre classes na linguagem java, com a criação de uma UML inicial. Utilização da Ferramenta Apache Ant para estruturação do Projeto.
+#### Running the Aplication
+```
+java -jar dist/Super.jar
+```
+
 
 ![](SuperGUI.png)
